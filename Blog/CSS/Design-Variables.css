@@ -1,0 +1,51 @@
+/* FONTS */
+@font-face {
+    font-family: Inknut_Antiqua-Regular;
+    src: url("");
+}
+
+@font-face {
+    font-family: "Inria-Serif";
+    src: url("../Fonts/Inria_Serif/InriaSerif-Regular.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "DM-Sans-Regular";
+    src: url("../Fonts/DM_Sans/static/DMSans_36pt-Regular.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "Gabarito";
+    src: url("../Fonts/Gabarito/static/Gabarito-Regular.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "Gabriela";
+    src: url("../Fonts/Gabriela/Gabriela-Regular.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "Island";
+    src: url("../Fonts/Island_Moments/IslandMoments-Regular.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "Candal";
+    src: url("../Fonts/Candal/Candal-Regular.ttf") format("truetype");
+}
+
+
+/* COLOR PALLETES */
+:root {
+    --base-background: #FFFFFF;
+    --blue: #00537A;
+    --dark-blue: #013C58;
+    --darker-blue: #0B1E33;
+
+    --h1: 3.815rem;
+    --h2: 2.488rem;
+    --h3: 2.074rem;
+    --h5: 1.563rem;
+    --p: 1.563rem;
+
+}
